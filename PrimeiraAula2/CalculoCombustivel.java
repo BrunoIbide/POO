@@ -13,17 +13,18 @@ public class CalculoCombustivel
 {
     public static void main(String[] args){
         
-        double valorGsolina = 4.00;   
+        double valorGasolina = 4.00;   
         double valorAlcool  = 2.50;
-        double resposta = valorGsolina * 0.7;
+        double respostaGasolina = valorGasolina * 0.7;
+        double respostaAlcool = valorAlcool * 0.7;
         
         
-        if(resposta > valorAlcool){
-            System.out.printl("Gasolina é melhor");
+        if(respostaGasolina > valorAlcool){
+            System.out.println("Gasolina é melhor");
         
         }
         else{
-            
+            System.out.println("Alcool é melhor");
         }
     
     

@@ -42,7 +42,13 @@ public class Variaveis
         else{
         System.out.println("A soma é menor que 100");
         }
+         for (int i=0;i<0 ; i++){
+    System.out.println("A soma é menor que 100");
       
        
+    }
+    
+   
+    
     }
 }
