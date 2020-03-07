@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Variaveis
+comment0.text=\r\n\ float\ >>\ double\r\n\ char(\ um\ caractere)\ String(igual\ o\ char\ no\ C++)\r\n\ int\ >>>\ int\r\n\ boolean\ \=\=\=\ true\ ou\ false;\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
